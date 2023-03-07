@@ -29,4 +29,5 @@ Spring Boot CLI (Command Line Interface) is a Spring Boot software to run and te
 * Initialize a new project<br/>
     spring init --dependencied=web,data-jpa demo-project
     
-    
+* Building project using maven<br/>
+    mvn compile
